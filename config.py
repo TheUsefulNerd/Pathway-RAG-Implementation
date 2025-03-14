@@ -1,5 +1,5 @@
 DATA_PATH = "./data/financial_stream.csv"
 OUTPUT_PATH = "./data/output_finance_stream.csv"
 EMBEDDINGS_PATH = "./embeddings/vector_store.pkl"
-API_KEY = "VHNXKI7UQ9XJF7TT."
+API_KEY = "."
 NEWS_PATH = "./data/news_articles.json"

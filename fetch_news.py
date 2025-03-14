@@ -4,7 +4,7 @@ import os
 import time
 from config import NEWS_PATH
 
-API_KEY = '1eec0f64bc8a415280c5c8e14d3ae846'  # Replace with your API Key
+API_KEY = ''  # Replace with your API Key
 
 class NewsIngestion:
     def __init__(self):
