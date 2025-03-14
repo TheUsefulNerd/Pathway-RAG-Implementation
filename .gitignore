@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+venv/
+env/
+*.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore editor or IDE specific files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
